@@ -1,4 +1,4 @@
-# Block 30 - Library
+# Block 30 - Book Buddy
 
 ## Introduction
 
