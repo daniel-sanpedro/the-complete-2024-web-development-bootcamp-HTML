@@ -10,7 +10,7 @@ Details on the API can be found 🔗 [here](#)
 
 1. Fork this repo
 2. Clone your copy of the starter code
-3. `cd Unit4.Library.Starter`
+3. `cd Unit4.BookBuddy.Starter`
 4. Install dependencies `npm install`
 5. Run the app with `npm run dev`
 
