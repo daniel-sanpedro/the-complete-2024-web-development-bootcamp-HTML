@@ -1,1 +1,1 @@
-/* TODO - add your code to create a functional React component that renders a login form */
+// /login and /register (This could alternatively be displayed in the profile instead of living in its own route.)

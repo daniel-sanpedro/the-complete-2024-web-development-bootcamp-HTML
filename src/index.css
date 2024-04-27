@@ -11,3 +11,12 @@ body {
 }
 
 /* Add your own custom styles here */
+
+body {
+  background: #555555;
+  color: #212121;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  margin: 0;
+  margin-top: 0;
+}
